@@ -74,3 +74,4 @@ Standing spider
 Characteristics - Shoots webs
 Characteristics - Cannot walk, shoots webs
 HP - 3 hearts
+=========================================================
