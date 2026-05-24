@@ -1,3 +1,4 @@
+=========================================================
 Александр (главный герой)
 Характеристика - средний паренёк из России
 Особенности - нету
@@ -33,3 +34,43 @@
 Особенности - не может ходить, стреляет паутиной
 ОЗ - 3 сердца
 =========================================================
+
+
+ENG
+
+
+=========================================================
+Alexander (protagonist)
+Characteristics - Average guy from Russia
+Characteristics - None
+HP - 1 heart
+=========================================================
+Zombie
+Characteristics - Regular zombie
+Characteristics - None
+HP - 2 hearts
+=========================================================
+Standing zombie
+Characteristics - Cannot walk due to paralyzed legs
+Characteristics - None
+HP - 2 hearts
+=========================================================
+Little zombie
+Characteristics - Runs fast
+Characteristics - Runs fast
+HP - 1 heart
+=========================================================
+Skeleton
+Characteristics - Skeleton with bow and arrow
+Characteristics - Equips a bow
+HP - 1 heart
+=========================================================
+Spider
+Characteristics - Regular spider from Australia
+Characteristics - None
+HP - 3 hearts
+=========================================================
+Standing spider
+Characteristics - Shoots webs
+Characteristics - Cannot walk, shoots webs
+HP - 3 hearts
